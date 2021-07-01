@@ -1,0 +1,69 @@
+
+light_bulb.png
+size: 484,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengpao
+  rotate: true
+  xy: 269, 13
+  size: 294, 114
+  orig: 294, 114
+  offset: 0, 0
+  index: -1
+fense
+  rotate: true
+  xy: 385, 2
+  size: 305, 91
+  orig: 305, 91
+  offset: 0, 0
+  index: -1
+huangse
+  rotate: false
+  xy: 2, 232
+  size: 265, 75
+  orig: 265, 75
+  offset: 0, 0
+  index: -1
+lanse
+  rotate: false
+  xy: 91, 396
+  size: 251, 57
+  orig: 251, 57
+  offset: 0, 0
+  index: -1
+lse
+  rotate: false
+  xy: 2, 333
+  size: 222, 61
+  orig: 222, 61
+  offset: 0, 0
+  index: -1
+xiaohongse
+  rotate: true
+  xy: 2, 425
+  size: 28, 87
+  orig: 28, 87
+  offset: 0, 0
+  index: -1
+xiaohuangse
+  rotate: false
+  xy: 226, 309
+  size: 256, 85
+  orig: 256, 85
+  offset: 0, 0
+  index: -1
+xiaolanse
+  rotate: false
+  xy: 2, 57
+  size: 250, 86
+  orig: 250, 86
+  offset: 0, 0
+  index: -1
+xiaoluse
+  rotate: false
+  xy: 2, 145
+  size: 248, 85
+  orig: 248, 85
+  offset: 0, 0
+  index: -1
