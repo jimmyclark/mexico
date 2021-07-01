@@ -1,0 +1,69 @@
+
+tree.png
+size: 437,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 106, 2
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 339, 5
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 401, 9
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 339, 28
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 4
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 194, 8
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 279, 3
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 339, 55
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 82
+  size: 107, 433
+  orig: 107, 433
+  offset: 0, 0
+  index: -1

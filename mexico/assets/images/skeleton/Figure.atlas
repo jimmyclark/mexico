@@ -1,0 +1,20 @@
+
+Figure.png
+size: 177,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 2, 2
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 40
+  size: 173, 33
+  orig: 173, 33
+  offset: 0, 0
+  index: -1
